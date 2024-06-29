@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(img/bg.jpg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wrap1{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    align-items: center;
+}
+.logo{
+    width: 156px;
+    height: 50px;
+} 
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+.dollartxt{
+width: 50px;
+height: 50px;
+border-radius: 5px;
+border: 2px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+
+}
+
+
+.wrap2{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin-top: 8%;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: orangered;
+    color: white;
+    font-size: large;
+    border: none;
+    
+}
+.burger{
+    text-transform: uppercase;
+    font-size: 100px;
+ 
+    color: white;
+    line-height: 150%;
+    padding-bottom: 2%;
+}
+.maintext{
+
+    font-size: 30px;
+   
+    color: white;
+}
+
+.btn2{
+    margin-top: 2%;
+    width: 260px;
+    height: 62px;
+    background-color: rgb(255, 170, 0);
+    border-radius: 10px;
+ 
+}
+
+.burgerimg{
+    width: 750px;
+
+}
